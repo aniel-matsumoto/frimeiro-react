@@ -1,11 +1,11 @@
-import Avatar from "../Avatar/Avatar";
-import "./Cabecalho.css";
+import Avatar from '../Avatar/Avatar';
+import './Cabecalho.css';
 
 const Cabecalho = () => {
   return (
     <header>
-      <img className="logoImage" src="/vite.svg"/>
-      <Avatar nome='Aniel Matsumoto' />
+      <img src='/vite.svg' />
+      <Avatar nome='João Silva' />
     </header>
   );
 };

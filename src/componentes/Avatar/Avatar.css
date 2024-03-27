@@ -3,15 +3,9 @@
   height: 48px;
   background-color: var(--cor-cinza);
   border-radius: 50%;
+
   display: grid;
   place-content: center;
 
   color: var(--cor-texto-claro);
-}
-.logoImage {
-  height: 48px;
-  background-color: var(--cor-cinza);
-  border-radius: 50%;
-  display: grid;
-  place-content: center;
 }
